@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c517b909a8c704eae91d4eccf06bc8a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11889
+  packageName: Editor Console Pro
+  packageVersion: 3.975
+  assetPath: Assets/ConsolePro/Remote/LiteNetLib/NetSocket.cs
+  uploadId: 667599

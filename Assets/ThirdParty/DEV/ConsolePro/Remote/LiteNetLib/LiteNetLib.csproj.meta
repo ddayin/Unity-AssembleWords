@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36ae2e48e7a7343fcb1503f56b5d4485
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11889
+  packageName: Editor Console Pro
+  packageVersion: 3.975
+  assetPath: Assets/ConsolePro/Remote/LiteNetLib/LiteNetLib.csproj
+  uploadId: 667599

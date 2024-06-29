@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a0197124da84847d8855d5f690b8c653
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11889
+  packageName: Editor Console Pro
+  packageVersion: 3.975
+  assetPath: Assets/ConsolePro/Remote/LiteNetLib/NetManager.cs
+  uploadId: 667599

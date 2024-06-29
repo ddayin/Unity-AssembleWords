@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 95b0631b1ed3f44169d8bf6632f9e567
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11889
+  packageName: Editor Console Pro
+  packageVersion: 3.975
+  assetPath: Assets/ConsolePro/Remote/LiteNetLib/NetStatistics.cs
+  uploadId: 667599

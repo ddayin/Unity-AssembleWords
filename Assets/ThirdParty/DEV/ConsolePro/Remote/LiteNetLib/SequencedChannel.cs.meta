@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 84bbbc6c6e45c4287917fc944650e4af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11889
+  packageName: Editor Console Pro
+  packageVersion: 3.975
+  assetPath: Assets/ConsolePro/Remote/LiteNetLib/SequencedChannel.cs
+  uploadId: 667599

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0ee39ab3e39a742f59665fde4e2c4f27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11889
+  packageName: Editor Console Pro
+  packageVersion: 3.975
+  assetPath: Assets/ConsolePro/Remote/LiteNetLib/Layers/XorEncryptLayer.cs
+  uploadId: 667599

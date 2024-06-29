@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 20d4d1cdad986436a8f2f4fcc8e3e47d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11889
+  packageName: Editor Console Pro
+  packageVersion: 3.975
+  assetPath: Assets/ConsolePro/Remote/LiteNetLib/Layers/PacketLayerBase.cs
+  uploadId: 667599

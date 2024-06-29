@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f5f028b0f6ea44a118a7e3a9bb45108c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11889
+  packageName: Editor Console Pro
+  packageVersion: 3.975
+  assetPath: Assets/ConsolePro/Remote/LiteNetLib/Utils/NetSerializer.cs
+  uploadId: 667599
