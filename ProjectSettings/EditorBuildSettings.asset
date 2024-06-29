@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Levels/Scenes/Title.unity
     guid: ac89b3055d2ee1c4c8645e10da933312
+  - enabled: 1
+    path: Assets/Levels/Scenes/Description.unity
+    guid: 1eb9855b5aaad7c499f14aad3ff0d38c
+  - enabled: 1
+    path: Assets/Levels/Scenes/MainCSharp.unity
+    guid: 4140a3ac25bd419438982eb3acb8d98d
+  - enabled: 1
+    path: Assets/Levels/Scenes/MainGeneral.unity
+    guid: 9ca021dd4caac4140b276b26c9c1a25e
+  - enabled: 1
+    path: Assets/Levels/Scenes/PuzzleGame.unity
+    guid: 003d674ab56a05a4e837ad0238306b29
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 7b4f489e897a45445ac7795e4ab4a8c9, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d9c0a92e804cf7a478df3c1904c70474, type: 2}

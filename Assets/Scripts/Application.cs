@@ -7,8 +7,8 @@ namespace AssembleWordsApp
     {
         private void Awake()
         {
-            Screen.SetResolution(1080, 1920, true);
-            UnityEngine.Application.targetFrameRate = 30;
+            Screen.SetResolution(1920, 1080, false);
+            UnityEngine.Application.targetFrameRate = 60;
         }
     }
 }
