@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 88e466f4a7082254f9ce9a8033284458
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214794
+  packageName: Responsive Keyboard - Mobile Games (Customisable)
+  packageVersion: 1.0
+  assetPath: Assets/Keyboard Package/Scripts/ColorDataStore.cs
+  uploadId: 484337

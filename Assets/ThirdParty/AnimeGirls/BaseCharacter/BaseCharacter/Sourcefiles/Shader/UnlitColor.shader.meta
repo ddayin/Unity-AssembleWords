@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea136bf5f05e7404c994700ff31c4017
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185076
+  packageName: Casual 1 - Anime Girl Characters
+  packageVersion: 1.0
+  assetPath: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Shader/UnlitColor.shader
+  uploadId: 406401

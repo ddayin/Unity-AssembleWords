@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3c01abf790e1a42ca8d10525f571cab5
+timeCreated: 1580414917
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178560
+  packageName: Recyclable Scroll Rect - Optimized List/Grid View
+  packageVersion: 1.1
+  assetPath: Assets/Recyclable Scroll Rect/Main/Prefab/Recyclable Scroll View.prefab
+  uploadId: 399551

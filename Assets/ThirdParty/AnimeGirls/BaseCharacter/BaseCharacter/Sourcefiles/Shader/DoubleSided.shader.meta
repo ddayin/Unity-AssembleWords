@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9566ab5898d15b44c83d8c8c7deb8865
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185076
+  packageName: Casual 1 - Anime Girl Characters
+  packageVersion: 1.0
+  assetPath: Assets/AnimeGirls/BaseCharacter/BaseCharacter/Sourcefiles/Shader/DoubleSided.shader
+  uploadId: 406401

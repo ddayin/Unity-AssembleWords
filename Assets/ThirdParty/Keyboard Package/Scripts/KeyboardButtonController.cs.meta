@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7915f1def9d7c43acb5c8d4a89b3d705
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 214794
+  packageName: Responsive Keyboard - Mobile Games (Customisable)
+  packageVersion: 1.0
+  assetPath: Assets/Keyboard Package/Scripts/KeyboardButtonController.cs
+  uploadId: 484337

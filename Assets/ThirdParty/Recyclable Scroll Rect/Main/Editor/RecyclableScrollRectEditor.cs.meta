@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 74168ba3b38714896bfecd0206751ad1
+timeCreated: 1579677840
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178560
+  packageName: Recyclable Scroll Rect - Optimized List/Grid View
+  packageVersion: 1.1
+  assetPath: Assets/Recyclable Scroll Rect/Main/Editor/RecyclableScrollRectEditor.cs
+  uploadId: 399551

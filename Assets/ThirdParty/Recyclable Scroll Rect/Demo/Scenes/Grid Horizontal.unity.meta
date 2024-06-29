@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fbf2fd80f33cf4f448c4b7f8c206f711
+timeCreated: 1577169397
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178560
+  packageName: Recyclable Scroll Rect - Optimized List/Grid View
+  packageVersion: 1.1
+  assetPath: Assets/Recyclable Scroll Rect/Demo/Scenes/Grid Horizontal.unity
+  uploadId: 399551
