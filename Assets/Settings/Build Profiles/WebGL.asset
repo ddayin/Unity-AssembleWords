@@ -19,13 +19,15 @@ MonoBehaviour:
     rid: 6016006025503834112
   m_Scenes:
   - m_enabled: 1
-    m_path: Assets/Levels/Scenes/Description.unity
+    m_path: Assets/Levels/Scenes/0_Title.unity
   - m_enabled: 1
-    m_path: Assets/Levels/Scenes/MainCSharp.unity
+    m_path: Assets/Levels/Scenes/1_MainGeneral.unity
   - m_enabled: 1
-    m_path: Assets/Levels/Scenes/MainGeneral.unity
+    m_path: Assets/Levels/Scenes/2_MainCSharp.unity
   - m_enabled: 1
-    m_path: Assets/Levels/Scenes/PuzzleGame.unity
+    m_path: Assets/Levels/Scenes/3_Description.unity
+  - m_enabled: 1
+    m_path: Assets/Levels/Scenes/4_PuzzleGame.unity
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
     m_Settings:
