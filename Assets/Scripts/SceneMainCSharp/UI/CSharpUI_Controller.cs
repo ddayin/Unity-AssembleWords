@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-namespace AssembleWordsApp
+namespace AssembleWords
 {
     public class CSharpUI_Controller : MonoBehaviour
     {
@@ -10,7 +10,7 @@ namespace AssembleWordsApp
 
         private void Awake()
         {
-            m_ButtonBack.onClick.AddListener(() => OnClickBackButton());
+            m_ButtonBack.onClick.AddListener(OnClickBackButton);
         }
         
         private void OnClickBackButton()

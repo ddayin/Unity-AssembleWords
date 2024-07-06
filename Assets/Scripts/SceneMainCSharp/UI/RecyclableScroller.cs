@@ -5,7 +5,7 @@ using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 
-namespace AssembleWordsApp
+namespace AssembleWords
 {
     public class RecyclableScroller : MonoBehaviour, IRecyclableScrollRectDataSource
     {

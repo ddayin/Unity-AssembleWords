@@ -2,7 +2,7 @@ using UnityEngine;
 using WanzyeeStudio;
 using Photon.Chat;
 
-namespace AssembleWordsApp
+namespace AssembleWords
 {
     public class NetworkManager : BaseSingleton<NetworkManager>
     {

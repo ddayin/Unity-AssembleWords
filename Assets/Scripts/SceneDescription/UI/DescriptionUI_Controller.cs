@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 using TMPro;
 
 
-namespace AssembleWordsApp
+namespace AssembleWords
 {
     public class DescriptionUI_Controller : MonoBehaviour
     {

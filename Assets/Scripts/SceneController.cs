@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 using WanzyeeStudio;
 
-namespace AssembleWordsApp
+namespace AssembleWords
 {
     public enum SceneName
     {

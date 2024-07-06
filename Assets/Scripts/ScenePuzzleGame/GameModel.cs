@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Serialization;
 
-namespace AssembleWordsApp
+namespace AssembleWords
 {
     [System.Serializable]
     public class Word

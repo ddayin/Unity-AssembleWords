@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace AssembleWordsApp
+namespace AssembleWords
 {
     public class Application : MonoBehaviour
     {

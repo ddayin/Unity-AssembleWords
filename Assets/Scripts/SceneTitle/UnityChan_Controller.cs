@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace AssembleWordsApp
+namespace AssembleWords
 {
     public class UnityChan_Controller : MonoBehaviour
     {

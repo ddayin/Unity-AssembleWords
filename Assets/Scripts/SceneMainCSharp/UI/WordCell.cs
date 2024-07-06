@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 using UnityEngine.SceneManagement;
 
-namespace AssembleWordsApp
+namespace AssembleWords
 {
     public class WordCell : MonoBehaviour, ICell
     {
@@ -19,7 +19,7 @@ namespace AssembleWordsApp
         private void Awake()
         {
             m_Button = GetComponent<Button>();
-            m_Button.onClick.AddListener(() => OnClickCell());
+            m_Button.onClick.AddListener(OnClickCell);
         }
         
         // public void ConfigureCell(CSharpData _model, int _index)
