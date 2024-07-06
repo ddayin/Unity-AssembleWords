@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.cathei.bakingsheet": "https://github.com/cathei/BakingSheet.git?path=UnityProject/Packages/com.cathei.bakingsheet#v4.1.2",
     "com.dbrizov.naughtyattributes": "https://github.com/dbrizov/NaughtyAttributes.git#upm",
     "com.jimmycushnie.jimmysunityutilities": "https://github.com/JimmyCushnie/JimmysUnityUtilities.git",
     "com.unity.adaptiveperformance.google.android": "1.3.1",

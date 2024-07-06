@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23b6cb4f65fff40c08a8b43ce7971b6a
+timeCreated: 1519318316
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112262
+  packageName: BG Database
+  packageVersion: 1.8.11
+  assetPath: Assets/BansheeGz/BGDatabase/Scripts/link.xml
+  uploadId: 672250

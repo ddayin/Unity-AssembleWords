@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0798f317076bff34dbbfc849eb881b6a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112262
+  packageName: BG Database
+  packageVersion: 1.8.11
+  assetPath: Assets/BansheeGz/BGDatabase/Editor/Res/BGDatabaseDarkSkin.dat
+  uploadId: 672250

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a28cdf1ea586ad4e9f06c6e66a5378a
+timeCreated: 1519401302
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112262
+  packageName: BG Database
+  packageVersion: 1.8.11
+  assetPath: Assets/BansheeGz/BGDatabase/Scripts/BGDatabaseSourceCode.unitypackage
+  uploadId: 672250

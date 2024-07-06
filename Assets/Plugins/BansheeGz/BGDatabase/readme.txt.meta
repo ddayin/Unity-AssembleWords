@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f0ef40f5202d0549a5dae3f6bb0c05f
+timeCreated: 1510632936
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112262
+  packageName: BG Database
+  packageVersion: 1.8.11
+  assetPath: Assets/BansheeGz/BGDatabase/readme.txt
+  uploadId: 672250
