@@ -21,14 +21,15 @@ namespace AssembleWords
 
         private void OnEnable()
         {
-            m_TextWord.text = AllTypeOfDictionary.instance.GetWord();
-            m_TextDescription.text = AllTypeOfDictionary.instance.GetDescription();
+            // m_TextWord.text = AllTypeOfDictionary.instance.GetWord();
+            // m_TextDescription.text = AllTypeOfDictionary.instance.GetDescription();
         }
 
         private void OnClickBackButton()
         {
             Debug.Log("Back");
 
+            /*
             SceneName sceneName = AllTypeOfDictionary.instance.GetPreviousScene();
             switch (sceneName)
             {
@@ -41,6 +42,7 @@ namespace AssembleWords
                 default:
                     break;
             }
+            */
         }
     }    
 }
