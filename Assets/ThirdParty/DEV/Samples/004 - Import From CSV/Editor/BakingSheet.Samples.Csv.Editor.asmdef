@@ -1,0 +1,20 @@
+{
+    "name": "BakingSheet.Samples.Csv.Editor",
+    "rootNamespace": "",
+    "references": [
+        "BakingSheet",
+        "BakingSheet.Csv",
+        "BakingSheet.Samples"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

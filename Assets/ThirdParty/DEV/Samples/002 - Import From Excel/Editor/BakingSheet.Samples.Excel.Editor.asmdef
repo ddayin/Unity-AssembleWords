@@ -1,0 +1,28 @@
+{
+    "name": "BakingSheet.Samples.Excel.Editor",
+    "rootNamespace": "",
+    "references": [
+        "BakingSheet",
+        "BakingSheet.Excel",
+        "BakingSheet.Samples",
+        "BakingSheet.Json",
+        "BakingSheet.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.addressables",
+            "expression": "0.0.1",
+            "define": "BAKINGSHEET_ADDRESSABLES"
+        }
+    ],
+    "noEngineReferences": false
+}
