@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace AssembleWords
 {
-    public class Application : MonoBehaviour
+    public class ApplicationMain : MonoBehaviour
     {
         private void Awake()
         {
